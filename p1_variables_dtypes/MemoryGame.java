@@ -8,5 +8,16 @@ class MemoryGame {
         passengers += 5;
 
         System.out.println(passengers);
+
+
+        String driver;
+        driver = "Hamish";
+
+        System.out.println(driver);
+
+        // driver is a String and String is an object in Java
+        // we can operate methods on String types
+        System.out.println(driver.length());
+        System.out.println(driver.toUpperCase());
     }
 }
