@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - KMachine",
+            "request": "launch",
+            "mainClass": "p3_functions.KMachine",
+            "projectName": "functional_intro_java_115361ac"
+        },
+        {
+            "type": "java",
             "name": "Debug (Launch) - Current File",
             "request": "launch",
             "mainClass": "${file}"
