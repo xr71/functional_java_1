@@ -59,8 +59,6 @@ public class HappyNumber {
             // System.out.println(n);
             // System.out.println(myset);
             // System.out.println("=========");
-
         }
-
     }
 }
